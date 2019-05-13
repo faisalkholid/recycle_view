@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Presiden Indonesia</string>
+    <string name="list">List</string>
+    <string name="grid">Grid</string>
+    <string name="with_cardview">Card View</string>
+    <string name="favorite">favorite</string>
+    <string name="share">share</string>
+</resources>
